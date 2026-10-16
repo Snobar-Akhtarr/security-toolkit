@@ -2,16 +2,6 @@
 
 A Flutter app with its own Node.js backend that checks passwords against known data breaches and scans links for threats. I built it to learn **API integration** step by step, using real third-party APIs.
 
-## Screenshots
-
-<table>
-  <tr>
-    <td align="center"><img src="screenshots/home.png" width="220" alt="Home screen"><br><sub>Home</sub></td>
-    <td align="center"><img src="screenshots/password_leaked.png" width="220" alt="Compromised password result"><br><sub>Compromised password</sub></td>
-    <td align="center"><img src="screenshots/password_safe.png" width="220" alt="Safe password result"><br><sub>No known leaks</sub></td>
-    <td align="center"><img src="screenshots/url_result.png" width="220" alt="URL scan result"><br><sub>URL scan result</sub></td>
-  </tr>
-</table>
 
 ## Features
 
